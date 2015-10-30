@@ -1,0 +1,19 @@
+{
+    "name": "dendev/package",
+    "description": "test",
+    "type": "test",
+    "license": "test",
+    "authors": [
+        {
+            "name": "dendev",
+            "email": "dendev@test.be"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "DDV\\Test\\": "src"
+        }
+    }
+}
